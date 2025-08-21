@@ -29,7 +29,7 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL here]
+- LinkedIn: [abasit179_linkedin](https://www.linkedin.com/in/abasit179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: abasit.official179@gmail.com
 - GitHub: [abasit179](https://github.com/abasit179)
 
