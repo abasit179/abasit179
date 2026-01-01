@@ -36,21 +36,20 @@ n8n Workflow Automation · API Integration · Webhooks · Automation Orchestrati
 
 ## 📂 Featured Projects
 
-### 🔹 **LangChain & n8n Projects (RAG + Automation)**
-Highlights of systems combining:
-- LLM workflows (LangChain)
-- Retrieval‑augmented Generation (RAG)
-- Automation via n8n
+### 🚀 AI LinkedIn Profile Analyzer  
+**LangChain + NLP + AI Agents**  
+A production‑grade AI application that analyzes LinkedIn profile PDFs using a multi‑agent system powered by LangChain & GPT‑4.  
+🔗 https://github.com/abasit179/AI-LinkedIn-Profile-Analyzer
 
-📌 Demo / docs / code links (future)
+### 🤖 Text Emotion Recognition  
+**NLP & Machine Learning**  
+A text‑based emotion classification project, showcasing NLP preprocessing and ML model training.  
+🔗 https://github.com/abasit179/text-emotion-recognition
 
-### 🔹 **Machine Learning Projects**
-Includes EDA, preprocessing, supervised learning, NLP & CV problems.
-
-### 🔹 **FastAPI Practice Projects**
-REST APIs using FastAPI and backend integration.
-
-> *(You can pin these repos so they show up at top of your profile.)*
+### 📊 Machine Learning Projects  
+**Model Development & EDA**  
+A collection of ML experiments including data exploration, feature engineering, and model evaluation across different datasets.  
+🔗 https://github.com/abasit179/machine-learning-projects
 
 ---
 
