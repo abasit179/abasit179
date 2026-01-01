@@ -1,38 +1,62 @@
-# 👋 Hi, I'm Abdul Basit
+# 👋 Hi, I’m Abdul Basit  
+**AI & Automation Engineer** | ML | NLP | LangChain (RAG) | n8n Automation
 
-🚀 **Aspiring AI & Machine Learning Engineer** | 🌱 Currently learning ML, Deep Learning & NLP | 💻 Passionate about building real-world projects
+💻 I build **AI‑driven solutions**, **intelligent workflows**, and **automation systems** using modern ML frameworks and cutting‑edge tools.
 
 ---
 
-## 🔧 Skills & Tools
-- **Languages:** Python, SQL
-- **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, FastAPI
-- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Model Optimization
-- **Tools:** Google Colab, GitHub, Jupyter Notebook
+## 🛠️ Tech Stack
+
+**Languages & Tools:**  
+Python · Pandas · NumPy · Scikit‑learn · FastAPI · Git · GitHub · SQL
+
+**Machine Learning:**  
+ML Pipelines · Model Evaluation · Feature Engineering · Data Preprocessing
+
+**NLP & LLMs:**  
+NLP (Text Classification, Sentiment Analysis, Tokenization) · LangChain (RAG) · Prompt Engineering · Vector DBs
+
+**Automation:**  
+n8n Workflow Automation · API Integration · Webhooks · Automation Orchestration
+
+---
+
+## 🚀 Experience
+
+### ⭐ Machine Learning Intern  
+🔹 Ezitech Institute — Worked on end‑to‑end ML pipelines, NLP & CV projects  
+🔹 Built models for text classification, sentiment analysis, and CV tasks  
+🔹 Evaluated models & improved performance with real‑world datasets
+
+### 📚 AI Engineering Training  
+🔹 NAVTTC @ NUTECH University — 3‑month intensive hands‑on program  
+🔹 Focus: Practical AI problem‑solving, pipelines, and applied ML  
 
 ---
 
 ## 📂 Featured Projects
-🔹 [Machine Learning Projects](https://github.com/abasit179/machine-learning-projects)  
-*A collection of ML projects covering EDA, preprocessing, regression, classification, clustering, and feature selection.*
 
-🔹 [FastAPI Practice Projects](https://github.com/abasit179/fastapi-practice-projects)  
-*Hands-on projects using FastAPI for backend API development.*
+### 🔹 **LangChain & n8n Projects (RAG + Automation)**
+Highlights of systems combining:
+- LLM workflows (LangChain)
+- Retrieval‑augmented Generation (RAG)
+- Automation via n8n
 
----
+📌 Demo / docs / code links (future)
 
-## 🌱 What I'm Working On
-- Strengthening my ML/DL foundations with hands-on projects
-- Exploring **Deep Learning, NLP, and Computer Vision**
-- Building a portfolio of practical AI projects
+### 🔹 **Machine Learning Projects**
+Includes EDA, preprocessing, supervised learning, NLP & CV problems.
+
+### 🔹 **FastAPI Practice Projects**
+REST APIs using FastAPI and backend integration.
+
+> *(You can pin these repos so they show up at top of your profile.)*
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [abasit179_linkedin](https://www.linkedin.com/in/abasit179?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- Email: abasit.official179@gmail.com
-- GitHub: [abasit179](https://github.com/abasit179)
 
----
+🔗 LinkedIn: https://www.linkedin.com/in/abasit179  
+📧 Email: abasit.official179@gmail.com
 
-⭐️ Feel free to check out my repositories and connect with me if you'd like to collaborate!
+⭐ Feel free to explore my repos & collaborate!
